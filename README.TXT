@@ -1,4 +1,4 @@
-"Hollo,world"
-"knock,cnock"
+"Hello,world"
+"knock,knock"
 "who's there"
 Git.
